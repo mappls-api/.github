@@ -1,8 +1,80 @@
 # Introduction
-## Low code APIs to get started with maps and location
+## Low code SDKs & APIs to get started with maps and location
 
 Trusted by developers all over - from budding startups and traditional
 enterprises to government organisations and global big tech
+
+## Explore all products
+Browse our guides and examples by product area.
+<style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            
+        }
+</style>
+<table>
+  <tr>
+    <th>Mapping APIs</th>
+    <th>Analytics APIs</th>
+  </tr>  
+  <tr align="left">
+      <td><strong><a href="https://about.mappls.com/api/maps" class="link">Maps</strong><br/>SDKs for maps and traffic.</td>
+      <td><strong><a href="https://about.mappls.com/api/search-and-geocoding" class="link">Search & Geocoding</strong><br/>APIs for search and discovery</td>
+  </tr>
+  <tr align="left">
+      <td><strong><a href="https://about.mappls.com/api/routes-and-navigation" class="link">Routes & Navigation</strong><br/>APIs to solve complex routing problems</td>
+      <td><strong><a href="https://about.mappls.com/api/navigation-sdk" class="link">Navigation SDK</strong><br/>Connected embedded navigation</td>
+  </tr>
+  <tr align="left">
+      <td><strong>RealView APIs</strong><br/>APIs for 360° panoramic images</td>
+  </tr>
+</table>
+<br>
+<table>
+    <tr>
+        <th>Analytics APIs</th>
+        <th>Telematics APIs & SDKs</th>
+    </tr>
+  <tr align="left">
+      <td><strong><a href="https://about.mappls.com/api/mgis-api" class="link">GIS & Analytics APIs</strong><br/>GeoBI meets Location AI.</td>      
+      <td><strong><a href="https://about.mappls.com/api/mobility-and-tracking" class="link">Mobility & Tracking</strong><br/>SDK to enable live location in your apps</td>
+  </tr>
+  <tr align="left">
+     <td><strong>Insight</strong><br/>APIs to get insights from raw data</td>
+     <td><strong><a href="https://about.mappls.com/api/workmate" class="link">Workmate APIs</strong><br/>Field force automation APIs</td> 
+  </tr>
+</table>
+<br>
+<table>
+    <tr>
+        <th>MapmyIndia Apps APIs & SDKs</th>
+        <th>Recent Releases</th>
+    </tr>
+  <tr align="left">
+      <td><strong><a href="https://about.mappls.com/api/move-api" class="link">Mappls App</strong><br/>Embed maps, navigation in your apps</td>      
+      <td><strong><a href="https://github.com/mappls-api/mapmyindia-api-addendums/tree/main/mapmyindia-mappls-deeplinks/iframes#1-mappls-places-iframe-widget" class="link">Mappls App Place Widget</strong><br/>embed a Mappls pin into your website or application</td>
+  </tr>
+  <tr align="left">
+     <td><strong><a href="https://about.mappls.com/api/navimaps/" class="link">NaviMaps SDK APIs</strong><br/>Hybrid navgation for embedded systems</td>
+     <td><strong><a href="https://github.com/mappls-api/mapmyindia-api-addendums/tree/main/mapmyindia-mappls-deeplinks/iframes#2-embed-immersive--interactive-3d-metaverse-maps-for-cricket-world-cup-venues-with-mappls" class="link">3D Metaverse Maps Widget</strong><br/>Immersive and 3D metaverse maps for popular venues and important landmarks</td> 
+  </tr>
+</table>
+
+## Getting Access
+
+Before using our SDKs or API in the your solution, please ensure that the related access is enabled in the [Mappls API Console](https://apis.mappls.com/console). 
+
+Mappls SDKs & APIs follow OAuth2 based security.
+Access Tokens can be generated using Token Generation API.
+To know more on how to create your access tokens, please use our authorization API URL. More details available [here](https://developer.mappls.com/mapping/tokenGeneration).<br>
+The access token is a valid by default for 24 hours from the time of generation. This can be configured by you in the API console.
 
 ## Our many happy customers
 
