@@ -6,19 +6,7 @@ enterprises to government organisations and global big tech
 
 ## Explore all products
 Browse our guides and examples by product area.
-<style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            padding: 10px;
-            border-bottom: 1px solid #ddd;
-        }
-        th {
-            
-        }
-</style>
+
 <table>
   <tr>
     <th>Mapping APIs</th>
