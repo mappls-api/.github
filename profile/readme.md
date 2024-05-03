@@ -34,7 +34,7 @@ Browse our guides and examples by product area.
       <td><strong><a href="https://about.mappls.com/api/mobility-and-tracking" class="link">Mobility & Tracking</strong><br/>SDK to enable live location in your apps</td>
   </tr>
   <tr align="left">
-     <td><strong>Insight</strong><br/>APIs to get insights from raw data</td>
+     <td><strong><a href="https://about.mappls.com/api/insight-api" class="link">Insight</strong><br/>APIs to get insights from raw data</td>
      <td><strong><a href="https://about.mappls.com/api/workmate" class="link">Workmate APIs</strong><br/>Field force automation APIs</td> 
   </tr>
 </table>
@@ -46,11 +46,23 @@ Browse our guides and examples by product area.
     </tr>
   <tr align="left">
       <td><strong><a href="https://about.mappls.com/api/move-api" class="link">Mappls App</strong><br/>Embed maps, navigation in your apps</td>      
-      <td><strong><a href="https://github.com/mappls-api/mapmyindia-api-addendums/tree/main/mapmyindia-mappls-deeplinks/iframes#1-mappls-places-iframe-widget" class="link">Mappls App Place Widget</strong><br/>embed a Mappls pin into your website or application</td>
+      <td><strong><a href="https://github.com/mappls-api/mappls-app-widgets/tree/main/mappls-places-widget" class="link">Mappls App Places Widget</strong><br/>embed a Mappls pin into your website or application</td>
   </tr>
   <tr align="left">
      <td><strong><a href="https://about.mappls.com/api/navimaps/" class="link">NaviMaps SDK APIs</strong><br/>Hybrid navgation for embedded systems</td>
-     <td><strong><a href="https://github.com/mappls-api/mapmyindia-api-addendums/tree/main/mapmyindia-mappls-deeplinks/iframes#2-embed-immersive--interactive-3d-metaverse-maps-for-cricket-world-cup-venues-with-mappls" class="link">3D Metaverse Maps Widget</strong><br/>Immersive and 3D metaverse maps for popular venues and important landmarks</td> 
+     <td><strong><a href="https://github.com/mappls-api/mappls-app-widgets/tree/main/mappls-3D-metaverse-widget" class="link">3D Metaverse Maps Widget</strong><br/>Immersive and 3D metaverse maps for popular venues and important landmarks</td> 
+  </tr>
+  <tr align="left">
+     <td></td>
+     <td><strong><a href="https://github.com/mappls-api/mappls-app-widgets/tree/main/mappls-nearby-widget" class="link">Mappls Nearby Widget</strong><br/>Add discovery and search for the nearby places</td> 
+  </tr>
+  <tr align="left">
+     <td></td>
+     <td><strong><a href="https://github.com/mappls-api/mappls-app-widgets/tree/main/mappls-realview-widget" class="link">Mappls Realview Widget</strong><br/>Get a full panoramic view of places/td> 
+  </tr>
+  <tr align="left">
+     <td></td>
+     <td><strong><a href="https://github.com/mappls-api/mappls-app-widgets/tree/main/mappls-earthView-widget" class="link">Mappls EarthView Widget</strong><br/>Get a 3D representation of a place & its surroundings on Earth as globe/td> 
   </tr>
 </table>
 
