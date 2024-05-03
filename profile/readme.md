@@ -1,8 +1,7 @@
 # Introduction
 ## Low code SDKs & APIs to get started with maps and location
 
-Trusted by developers all over - from budding startups and traditional
-enterprises to government organisations and global big tech
+Discover our low-code SDKs & APIs, relied upon by developers worldwide, spanning from emerging startups to established enterprises, government entities, and leading tech corporations. Seamlessly incorporate powerful mapping and location services with swift implementation, flexibility, and customized functionalities tailored to your specific business needs.
 
 ## Explore all products
 Browse our guides and examples by product area.
@@ -57,13 +56,17 @@ Browse our guides and examples by product area.
 
 ## Getting Access
 
-Before using our SDKs or API in the your solution, please ensure that the related access is enabled in the [Mappls API Console](https://apis.mappls.com/console). 
+Before using our SDKs or API in your solution, please ensure that the related access is enabled in the [Mappls API Console](https://apis.mappls.com/console). 
 
 Mappls SDKs & APIs follow OAuth2 based security.
 Access Tokens can be generated using Token Generation API.
 To know more on how to create your access tokens, please use our authorization API URL. More details available [here](https://developer.mappls.com/mapping/tokenGeneration).<br>
-The access token is a valid by default for 24 hours from the time of generation. This can be configured by you in the API console.
+The access token is valid by default for 24 hours from the time of generation. This can be configured by you in the API console.
 
 ## Our many happy customers
 
 ![](https://www.mapmyindia.com/api/img/logos1/PhonePe.png)  ![](https://about.mappls.com/images/client_logo/amazon-a.svg)  ![](https://www.mapmyindia.com/api/img/logos1/delhivery.png)  ![](https://www.mapmyindia.com/api/img/logos1/hdfc.png)  ![](https://www.mapmyindia.com/api/img/logos1/TVS.png)  ![](https://www.mapmyindia.com/api/img/logos1/Paytm.png)  ![](https://about.mappls.com/images/client_logo/mcdonalds-01.svg)  ![](https://www.mapmyindia.com/api/img/logos1/ICICI-Pru.png)  ![](https://about.mappls.com/images/client_logo/honda.svg)  ![](https://www.mapmyindia.com/api/img/logos1/Sensel.png)  ![](https://www.mapmyindia.com/api/img/logos1/TATA-MOTORS.png)  ![](https://www.mapmyindia.com/api/img/logos1/Wipro.png)  ![](https://cdn-public.mappls.com/about-mappls/assets/images/client_logo/mahindra.svg)  ![](https://cdn-public.mappls.com/about-mappls/assets/customer/images/umang.png)  ![](https://about.mappls.com/customer/images/com_logo/finserv_logo.svg)  ![](https://cdn-public.mappls.com/about-mappls/assets/customer/images/gstn.png)  [<img src="https://about.mappls.com/images/original/avis_logo-01.svg" height="30"/>]()  [<img src="https://about.mappls.com/images/client_logo/CBDT.svg" height="60"/>]()  [<img src="https://about.mappls.com/images/client_logo/finance.png" height="60"/>]()
+
+## Visit our Website
+
+To know more about the functionalities of each API or SDK visit us at [about.mappls.com/api/](about.mappls.com/api/)
