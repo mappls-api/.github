@@ -20,7 +20,8 @@ Browse our guides and examples by product area.
       <td><strong><a href="https://about.mappls.com/api/navigation-sdk" class="link">Navigation SDK</strong><br/>Connected embedded navigation</td>
   </tr>
   <tr align="left">
-      <td><strong>RealView APIs</strong><br/>APIs for 360° panoramic images</td>
+      <td><strong><a href="https://about.mappls.com/api/realview-api/" class="link">RealView APIs</strong><br/>APIs for 360° panoramic images</td>
+      <td><strong><a href="https://about.mappls.com/api/custom-solutions/" class="link">Custom Search Solution</strong><br/>Bring Your Own Data (BYOD) and make it searchable</td>
   </tr>
 </table>
 <br>
